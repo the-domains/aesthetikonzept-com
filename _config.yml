@@ -1,0 +1,28 @@
+name: Aesthetikonzept.com
+favicon: null
+layout_spectrum: 0.2649908331222832
+typography_spectrum: 0.729528162162751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3672740859910846
+  lightness: 0.9669154996518046
+  saturation: 0.37450000643730164
+  rhythmicContrast: 0.43719239835627377
+purpose: []
